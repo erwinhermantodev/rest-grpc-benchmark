@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	pb "github.com/erwinhermanodev/rest-grpc-benchmark/grpc/proto" // replace with actual path
+	pb "github.com/erwinhermanodev/rest-grpc-benchmark/client/proto" // replace with actual path
 
 	"google.golang.org/grpc"
 )
